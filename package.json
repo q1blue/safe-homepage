@@ -19,7 +19,7 @@
     "@emotion/react": "^11.10.5",
     "@emotion/server": "^11.10.0",
     "@emotion/styled": "^11.10.5",
-    "@mui/material": "^5.11.6",
+    "@mui/material": "^5.14.12",
     "@safe-global/safe-gateway-typescript-sdk": "^3.7.0",
     "clsx": "^1.2.1",
     "fuse.js": "^6.6.2",
