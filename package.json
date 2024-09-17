@@ -23,7 +23,7 @@
     "@safe-global/safe-gateway-typescript-sdk": "^3.7.0",
     "clsx": "^1.2.1",
     "fuse.js": "^6.6.2",
-    "isomorphic-dompurify": "^1.0.0",
+    "isomorphic-dompurify": "^2.10.0",
     "lodash": "^4.17.21",
     "next": "13.1.5",
     "react": "18.2.0",
